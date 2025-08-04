@@ -14,7 +14,7 @@
 
 ---
 
-<img align="right" height="200" src="https://i.imgur.com/M73FrNP.gif" />
+<img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 
 ### 🧑‍💻 Sobre mim:
 
@@ -107,10 +107,10 @@ const metas2025 = {
 
 ---
 
-## 🐍 Contribuições
+## 📈 Atividade no GitHub
 
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MateusAlcantara13/MateusAlcantara13/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MateusAlcantara13&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </div>
 
 ---
