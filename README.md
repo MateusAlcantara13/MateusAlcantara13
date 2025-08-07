@@ -131,7 +131,7 @@ const metas2025 = {
   
   ### 💭 Frase que me inspira:
   
-  *"O único jeito de fazer um excelente trabalho é amar o que você faz." - Steve Jobs*
+  *"Na adversidade, uns desistem, enquanto outros fazem história." - Ayrton Senna*
   
   **Obrigado pela visita! Vamos codar juntos? 🚀**
   
