@@ -168,7 +168,7 @@
 <!-- Projetos em destaque com cards modernos -->
 <div align="center">
   
-  ## 🎯 **Projetos em Destaque**
+  ## 🚀 **Projetos em Destaque**
   
 </div>
 
@@ -177,51 +177,51 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">🛒 E-commerce Full Stack</h3>
+<h3 align="center">🍔 Zero7 Hamburgueria</h3>
 <div align="center">  
-<a href="https://github.com/MateusAlcantara13/ecommerce-project" target="_blank"><img style="margin: 10px" src="https://github.com/MateusAlcantara13/MateusAlcantara13/blob/main/ecommerce-preview.gif" alt="E-commerce" height="200" /></a>  
+<a href="https://zero7hamburgueria.netlify.app" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/🍔-Hamburgueria_Digital-FF6B35?style=for-the-badge&logoColor=white" alt="Zero7 Hamburgueria" height="80" /></a>  
 </div>
 <br>
 
-**Tech Stack:** PHP • MySQL • JavaScript • Bootstrap
+**Tech Stack:** HTML5 • CSS3 • JavaScript • Bootstrap
 
-✨ Sistema completo de e-commerce<br>
-🛒 Carrinho de compras funcional<br>
-🔐 Autenticação de usuários<br>
-📊 Painel administrativo<br>
-💳 Integração de pagamentos<br>
+🍔 Site institucional para hamburgueria<br>
+📱 Design responsivo e moderno<br>
+🛒 Cardápio digital interativo<br>
+📍 Localização e contato<br>
+⚡ Performance otimizada<br>
 
 <div align="center">
-<a href="https://github.com/MateusAlcantara13/ecommerce-project" target="_blank">
+<a href="https://github.com/MateusAlcantara13/zero7-hamburgueria" target="_blank">
 <img src="https://img.shields.io/badge/Código-000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://ecommerce-demo.com" target="_blank">
-<img src="https://img.shields.io/badge/Demo-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://zero7hamburgueria.netlify.app" target="_blank">
+<img src="https://img.shields.io/badge/Site-FF6B35?style=for-the-badge&logo=netlify&logoColor=white"/>
 </a>
 </div>
 
 </td>
 <td width="50%">
-<h3 align="center">📱 Task Manager App</h3>
+<h3 align="center">🏠 Associação Promessas</h3>
 <div align="center">
-<a href="https://github.com/MateusAlcantara13/task-manager" target="_blank"><img style="margin: 10px" src="https://github.com/MateusAlcantara13/MateusAlcantara13/blob/main/taskmanager-preview.gif" alt="Task Manager" height="200" /></a>
+<a href="https://promessas.netlify.app" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/🏠-ONG_Institucional-6C5CE7?style=for-the-badge&logoColor=white" alt="Associação Promessas" height="80" /></a>
 </div>
 <br>
 
-**Tech Stack:** React • Node.js • MySQL
+**Tech Stack:** HTML5 • CSS3 • JavaScript • Font Awesome
 
-📝 Gerenciamento completo de tarefas<br>
-🎨 Interface moderna e responsiva<br>
-🔒 Autenticação segura<br>
-📊 Dashboard com estatísticas<br>
-⚡ API REST robusta<br>
+🏠 Site institucional para ONG<br>
+💜 12 anos transformando vidas<br>
+📊 Estatísticas de impacto social<br>
+📱 Responsivo e acessível<br>
+🚀 SEO otimizado<br>
 
 <div align="center">
-<a href="https://github.com/MateusAlcantara13/task-manager" target="_blank">
+<a href="https://github.com/MateusAlcantara13/associacao-promessas" target="_blank">
 <img src="https://img.shields.io/badge/Código-000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://taskmanager-demo.com" target="_blank">
-<img src="https://img.shields.io/badge/Demo-4FC3F7?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://promessas.netlify.app" target="_blank">
+<img src="https://img.shields.io/badge/Site-6C5CE7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </a>
 </div>
 
@@ -229,52 +229,47 @@
 </tr>
 <tr>
 <td width="50%">
-<h3 align="center">🎨 Portfolio Interativo</h3>
+<h3 align="center">🌱 PlantCare Website</h3>
 <div align="center">
-<a href="https://github.com/MateusAlcantara13/portfolio" target="_blank"><img style="margin: 10px" src="https://github.com/MateusAlcantara13/MateusAlcantara13/blob/main/portfolio-preview.gif" alt="Portfolio" height="200" /></a>
+<a href="https://plantcare-page.netlify.app" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/🌱-Cuidados_com_Plantas-4CAF50?style=for-the-badge&logoColor=white" alt="PlantCare" height="80" /></a>
 </div>
 <br>
 
-**Tech Stack:** HTML5 • CSS3 • JavaScript • GSAP
+**Tech Stack:** HTML5 • CSS3 • JavaScript • Responsive Design
 
-🎭 Design moderno e interativo<br>
-✨ Animações com GSAP<br>
-📱 Totalmente responsivo<br>
-🌙 Tema dark/light<br>
-📧 Formulário de contato<br>
+🌱 Plataforma sobre cuidados com plantas<br>
+🎨 Design clean e natural<br>
+📚 Guias e dicas de jardinagem<br>
+📱 Interface amigável<br>
+🌿 Tema sustentável<br>
 
 <div align="center">
-<a href="https://github.com/MateusAlcantara13/portfolio" target="_blank">
+<a href="https://github.com/MateusAlcantara13/plantcare-website" target="_blank">
 <img src="https://img.shields.io/badge/Código-000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://mateusalcantara.dev" target="_blank">
-<img src="https://img.shields.io/badge/Site-A855F7?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://plantcare-page.netlify.app" target="_blank">
+<img src="https://img.shields.io/badge/Site-4CAF50?style=for-the-badge&logo=netlify&logoColor=white"/>
 </a>
 </div>
 
 </td>
 <td width="50%">
-<h3 align="center">🚀 API RESTful</h3>
+<h3 align="center">🚀 Próximos Projetos</h3>
 <div align="center">
-<a href="https://github.com/MateusAlcantara13/restful-api" target="_blank"><img style="margin: 10px" src="https://github.com/MateusAlcantara13/MateusAlcantara13/blob/main/api-preview.gif" alt="API" height="200" /></a>
+<img style="margin: 10px" src="https://img.shields.io/badge/🔨-Em_Desenvolvimento-FFA726?style=for-the-badge&logoColor=white" alt="Em Desenvolvimento" height="80" />
 </div>
 <br>
 
-**Tech Stack:** Node.js • Express • MySQL
+**Planejando:** React • Node.js • TypeScript
 
-🔧 API completa e documentada<br>
-🔐 Autenticação e autorização<br>
-📝 Documentação Swagger<br>
-✅ Testes automatizados<br>
-📊 Performance otimizada<br>
+⚡ API RESTful completa<br>
+🛒 E-commerce Full Stack<br>
+📱 App mobile com React Native<br>
+🎨 Portfolio interativo V2<br>
+📊 Dashboard administrativo<br>
 
 <div align="center">
-<a href="https://github.com/MateusAlcantara13/restful-api" target="_blank">
-<img src="https://img.shields.io/badge/Código-000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://api-docs.com" target="_blank">
-<img src="https://img.shields.io/badge/Docs-66BB6A?style=for-the-badge&logo=swagger&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/Em_Breve-FFA726?style=for-the-badge&logo=rocket&logoColor=white"/>
 </div>
 
 </td>
@@ -477,5 +472,5 @@ console.log(`${mateus.name} está pronto para revolucionar o mundo tech! 🚀`);
 
 <!-- Analytics invisíveis e hidden features -->
 <div style="display: none;">
-Mateus Alcântara - Desenvolvedor Full Stack - São Paulo - Brasil - React - Node.js - PHP - MySQL - JavaScript - HTML5 - CSS3 - Bootstrap - Express - Git - GitHub - VS Code - Primeira Oportunidade - Estágio - Trainee - Desenvolvedor Júnior - Portfolio - Projetos - E-commerce - Task Manager - API RESTful - Frontend - Backend - Full Stack - TypeScript - Next.js - Laravel - Trello - Figma
+Mateus Alcântara - Desenvolvedor Full Stack - São Paulo - Brasil - React - Node.js - PHP - MySQL - JavaScript - HTML5 - CSS3 - Bootstrap - Express - Git - GitHub - VS Code - Primeira Oportunidade - Estágio - Trainee - Desenvolvedor Júnior - Portfolio - Projetos - Zero7 Hamburgueria - Associação Promessas - PlantCare - Frontend - Backend - Full Stack - TypeScript - Next.js - Laravel - Trello - Figma
 </div>
