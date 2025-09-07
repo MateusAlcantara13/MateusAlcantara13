@@ -435,7 +435,7 @@ console.log(`${mateus.name} está pronto para revolucionar o mundo tech! 🚀`);
   
   <br><br>
   
-  **"Na adversidade, uns desistem, enquanto outros fazem história."**  
+  **"Na adversidade, uns desistem, enquanto outros batem récords."**  
   *— Ayrton Senna*
   
   <br>
