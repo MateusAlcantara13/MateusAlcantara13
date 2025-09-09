@@ -192,7 +192,7 @@
 ⚡ Performance otimizada<br>
 
 <div align="center">
-<a href="https://github.com/MateusAlcantara13/zero7-hamburgueria" target="_blank">
+<a href="https://github.com/MateusAlcantara13/zero7" target="_blank">
 <img src="https://img.shields.io/badge/Código-000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://zero7hamburgueria.netlify.app" target="_blank">
@@ -217,7 +217,7 @@
 🚀 SEO otimizado<br>
 
 <div align="center">
-<a href="https://github.com/MateusAlcantara13/associacao-promessas" target="_blank">
+<a href="https://github.com/MateusAlcantara13/associacao-promessas-landing" target="_blank">
 <img src="https://img.shields.io/badge/Código-000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://promessas.netlify.app" target="_blank">
