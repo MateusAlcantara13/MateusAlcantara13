@@ -220,7 +220,7 @@
 <a href="https://github.com/MateusAlcantara13/associacao-promessas-landing" target="_blank">
 <img src="https://img.shields.io/badge/Código-000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://promessas.netlify.app" target="_blank">
+<a href="https://associacaopromessas.com.br/" target="_blank">
 <img src="https://img.shields.io/badge/Site-6C5CE7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </a>
 </div>
