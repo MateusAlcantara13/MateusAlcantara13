@@ -7,12 +7,13 @@
 
 <!-- Typing animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Oi!+👋+Eu+sou+o+Mateus;Estudante+de+Análise+e+Desenvolvimento+💜;17+anos+•+Apaixonado+por+Machine+Learning+🤖;Explorando+o+mundo+da+IA+🚀;Sempre+aprendendo+algo+novo+🌱" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Oi!+👋+Eu+sou+o+Mateus;Estudante+de+Análise+e+Desenvolvimento+💜;17+anos+•+Apaixonado+por+Machine+Learning+🤖;Explorando+Python+%2B+TensorFlow+🐍;Sempre+aprendendo+algo+novo+🌱" alt="Typing SVG" />
 </div>
 
 <!-- Badges dinâmicos -->
 <div align="center">
   <img src="https://img.shields.io/badge/Focus-Machine%20Learning%20%26%20AI-brightgreen?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Learning-Python%20%2B%20TensorFlow-yellow?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Lives-São%20Paulo,%20Brasil-blue?style=for-the-badge&logo=google-maps&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Estudante%20UNISENAI-orange?style=for-the-badge&logo=graduation-cap&logoColor=white" />
 </div>
@@ -30,9 +31,10 @@
     
   🎓 **Cursando:** Análise e Desenvolvimento de Sistemas - UNISENAI<br>
   🤖 **Paixão:** Machine Learning & Inteligência Artificial<br>
-  🧠 **Foco:** TensorFlow (JavaScript) e treinamento de modelos de IA<br>
-  🌱 **Aprendendo:** JavaScript, React, TensorFlow.js<br>
-  🎯 **Objetivo:** Me aprofundar em uma linguagem para trabalhar com IA<br>
+  🐍 **Estudando atualmente:** Python para TensorFlow e ML<br>
+  🧠 **Foco:** TensorFlow (Python & JavaScript) e treinamento de modelos de IA<br>
+  🌱 **Aprendendo:** Python, JavaScript, React, TensorFlow<br>
+  🎯 **Objetivo:** Dominar Python para trabalhar com IA e Machine Learning<br>
   💡 **Interesse:** Transformar dados em inteligência<br>
   📍 **Localização:** São Paulo, SP - Brasil<br>
   ⚡ **Fun fact:** Comecei aos 16 e já estou mergulhando em ML!<br>
@@ -73,10 +75,11 @@
 
 **🤖 Machine Learning & AI**
 
-<img src="https://skillicons.dev/icons?i=js,tensorflow&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,js,tensorflow&theme=dark" />
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 </td>
 <td align="center" width="50%">
@@ -279,6 +282,55 @@
 
 ---
 
+<!-- Nova seção: Projetos Python + ML em desenvolvimento -->
+<div align="center">
+  
+  ## 🐍 **Python + Machine Learning - Em Breve!**
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=800&lines=Estudando+Python+para+TensorFlow+🐍;Projetos+de+ML+em+desenvolvimento+🤖;Treinamento+de+modelos+de+IA+🧠;Computer+Vision+%2B+Deep+Learning+📊" alt="Python ML Typing" />
+  
+</div>
+
+<br>
+
+<div align="center">
+  
+  ### 🚀 **Próximos Projetos**
+  
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/🧠-Classificação_de_Imagens-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="60"/>
+        <br><br>
+        <b>Image Classification</b><br>
+        Python + TensorFlow<br>
+        <i>🔜 Em desenvolvimento</i>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/📊-Análise_de_Dados-3776AB?style=for-the-badge&logo=python&logoColor=white" height="60"/>
+        <br><br>
+        <b>Data Analysis with ML</b><br>
+        Python + Pandas + NumPy<br>
+        <i>🔜 Em desenvolvimento</i>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/👁️-Computer_Vision-00C853?style=for-the-badge&logo=opencv&logoColor=white" height="60"/>
+        <br><br>
+        <b>Object Detection</b><br>
+        Python + OpenCV + TensorFlow<br>
+        <i>🔜 Em desenvolvimento</i>
+      </td>
+    </tr>
+  </table>
+  
+  <br>
+  
+  > 💡 **Atualmente estudando Python para dominar TensorFlow e construir modelos de Machine Learning profissionais!**
+  
+</div>
+
+---
+
 <!-- Seção simples e limpa de metas -->
 <div align="center">
   
@@ -291,14 +343,18 @@
 ### 📚 **Aprendizado**
 <div align="left">
 
-```javascript
+```python
 learning_path_2025 = {
-    languages: ["JavaScript", "Python"],
-    ai_ml: ["TensorFlow.js", "Machine Learning", "Computer Vision"],
-    web: ["React", "Node.js"],
-    focus: "Aprofundar em uma linguagem para trabalhar com IA",
-    goal: "Dominar Machine Learning com JavaScript"
+    "languages": ["Python", "JavaScript"],
+    "ai_ml": ["TensorFlow", "PyTorch", "Scikit-learn", "Computer Vision"],
+    "data_science": ["Pandas", "NumPy", "Matplotlib"],
+    "web": ["React", "Node.js"],
+    "focus": "Dominar Python para Machine Learning e Deep Learning",
+    "goal": "Construir modelos de IA profissionais com TensorFlow"
 }
+
+print(f"🐍 Estudando {learning_path_2025['languages'][0]} para entrar no mundo do ML!")
+# Output: 🐍 Estudando Python para entrar no mundo do ML!
 ```
 
 </div>
@@ -306,10 +362,11 @@ learning_path_2025 = {
 ### 🤖 **Projetos de IA**
 <div align="left">
 
-- 🧠 **Modelo de classificação** com TensorFlow.js
-- 📊 **Computer Vision** para reconhecimento de objetos
-- 💬 **Aplicações acessíveis** com IA
-- 🎯 **Projetos de impacto social** usando ML
+- 🧠 **Modelos de classificação** com TensorFlow + Python
+- 📊 **Computer Vision** para reconhecimento e detecção de objetos
+- 🐍 **Data Science** com Pandas, NumPy e análise de dados
+- 💬 **Aplicações acessíveis** usando Machine Learning
+- 🎯 **Projetos de impacto social** com Deep Learning
 
 </div>
 
@@ -317,8 +374,9 @@ learning_path_2025 = {
 <div align="left">
 
 - 🎓 **Completar disciplinas** da UNISENAI com excelência
-- 📈 **5+ projetos** práticos de Machine Learning
-- 🤝 **Networking** na comunidade de IA
+- 🐍 **Dominar Python** para Machine Learning
+- 📈 **5+ projetos** práticos de ML com Python + TensorFlow
+- 🤝 **Networking** na comunidade de IA e Data Science
 - 🌟 **Contribuir** para projetos open source de ML
 
 </div>
@@ -334,45 +392,57 @@ learning_path_2025 = {
   
 </div>
 
-```javascript
-class MateusDeveloper {
-    constructor() {
-        this.name = "Mateus Alcântara";
-        this.age = 17;
-        this.location = "São Paulo, Brasil";
-        this.education = "Análise e Desenvolvimento de Sistemas - UNISENAI";
-        this.passion = "Machine Learning & Artificial Intelligence";
-        this.currentFocus = "TensorFlow.js e Treinamento de Modelos";
-        this.dreamJob = "AI/ML Engineer";
-        this.motto = "Transformar código em acessibilidade desde 2023 ♿🤖";
-    }
+```python
+class MateusDeveloper:
+    def __init__(self):
+        self.name = "Mateus Alcântara"
+        self.age = 17
+        self.location = "São Paulo, Brasil"
+        self.education = "Análise e Desenvolvimento de Sistemas - UNISENAI"
+        self.passion = "Machine Learning & Artificial Intelligence"
+        self.current_focus = "Python + TensorFlow para ML e Deep Learning"
+        self.dream_job = "AI/ML Engineer"
+        self.motto = "Transformar código em acessibilidade desde 2023 ♿🤖"
     
-    getSkills() {
+    def get_skills(self):
         return {
-            ai_ml: ["JavaScript", "TensorFlow.js", "Machine Learning", "Computer Vision"],
-            web_dev: ["HTML5", "CSS3", "JavaScript", "React", "PHP"],
-            database: ["MySQL"],
-            tools: ["Git", "GitHub", "VS Code", "Trello", "Figma"]
-        };
-    }
+            "ai_ml": ["Python", "TensorFlow", "JavaScript", "TensorFlow.js", 
+                      "Machine Learning", "Computer Vision"],
+            "data_science": ["Pandas", "NumPy", "Data Analysis"],
+            "web_dev": ["HTML5", "CSS3", "JavaScript", "React", "PHP"],
+            "database": ["MySQL"],
+            "tools": ["Git", "GitHub", "VS Code", "Trello", "Figma"]
+        }
     
-    getCurrentGoals() {
+    def get_current_goals(self):
         return [
-            "🎯 Me aprofundar em JavaScript para trabalhar com IA",
-            "🤖 Dominar TensorFlow.js e treinamento de modelos",
+            "🐍 Dominar Python para Machine Learning com TensorFlow",
+            "🤖 Construir modelos de IA profissionais e escaláveis",
             "📚 Completar graduação em Análise e Desenvolvimento de Sistemas",
-            "🌱 Construir projetos de ML com impacto social",
-            "💡 Criar soluções de IA que promovam acessibilidade"
-        ];
-    }
+            "🌱 Criar projetos de ML com impacto social",
+            "💡 Desenvolver soluções de IA que promovam acessibilidade"
+        ]
     
-    getMotivationalQuote() {
-        return "A tecnologia tem o poder de incluir e transformar vidas! ♿💜";
-    }
-}
+    def get_learning_journey(self):
+        return {
+            "started_with": "JavaScript + TensorFlow.js",
+            "now_learning": "Python + TensorFlow",
+            "reason": "Aprofundar conhecimento para trabalhar profissionalmente com ML",
+            "next_step": "Publicar projetos de Machine Learning em Python"
+        }
+    
+    def get_motivational_quote(self):
+        return "A tecnologia tem o poder de incluir e transformar vidas! ♿💜"
 
-const mateus = new MateusDeveloper();
-console.log(`${mateus.name} está explorando o fascinante mundo da Inteligência Artificial! 🚀`);
+# Iniciando a jornada em Python + ML
+mateus = MateusDeveloper()
+journey = mateus.get_learning_journey()
+
+print(f"🚀 {mateus.name} está explorando {journey['now_learning']}!")
+print(f"🎯 Objetivo: {journey['next_step']}")
+# Output: 
+# 🚀 Mateus Alcântara está explorando Python + TensorFlow!
+# 🎯 Objetivo: Publicar projetos de Machine Learning em Python
 ```
 
 ---
@@ -382,7 +452,7 @@ console.log(`${mateus.name} está explorando o fascinante mundo da Inteligência
   
   ## 🤝 **Vamos Construir Algo Incrível Juntos?**
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Apaixonado+por+Machine+Learning+🤖;Estudante+dedicado+da+UNISENAI+🎓;Projetos+colaborativos+🤝;Sempre+aprendendo+e+crescendo+🌟" alt="Contact Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Apaixonado+por+Machine+Learning+🤖;Estudando+Python+%2B+TensorFlow+🐍;Projetos+colaborativos+🤝;Sempre+aprendendo+e+crescendo+🌟" alt="Contact Typing SVG" />
   
 </div>
 
@@ -411,11 +481,12 @@ console.log(`${mateus.name} está explorando o fascinante mundo da Inteligência
   
 <div align="left">
   
-  🤖 **Projetos de Machine Learning e IA**  
-  🤝 **Colaborações em desenvolvimento web**  
+  🐍 **Projetos de Machine Learning com Python**  
+  🤖 **Desenvolvimento de modelos de IA e Deep Learning**  
+  🤝 **Colaborações em desenvolvimento web e ML**  
   📚 **Troca de conhecimento e aprendizado**  
   💼 **Networking acadêmico e profissional**  
-  💡 **Discussões sobre tecnologia e inovação**  
+  💡 **Discussões sobre tecnologia, IA e inovação**  
   
 </div>
   
@@ -439,7 +510,12 @@ console.log(`${mateus.name} está explorando o fascinante mundo da Inteligência
   
   <br>
   
-  **Obrigado pela visita! Vamos transformar dados em inteligência juntos! 🤖💜**
+  **"Python é a linguagem que conecta a lógica à inteligência artificial."**  
+  *— Guido van Rossum*
+  
+  <br>
+  
+  **Obrigado pela visita! Vamos transformar dados em inteligência juntos! 🐍🤖💜**
   
 </div>
   
