@@ -334,7 +334,7 @@
 <!-- Seção simples e limpa de metas -->
 <div align="center">
   
-  ## 🎯 **Metas 2025**
+  ## 🎯 **Metas 2026-2027**
   
 </div>
 
@@ -388,63 +388,7 @@ print(f"🐍 Estudando {learning_path_2025['languages'][0]} para entrar no mundo
 <!-- Seção de código motivacional -->
 <div align="center">
   
-  ## 💭 **Filosofia de Código**
   
-</div>
-
-```python
-class MateusDeveloper:
-    def __init__(self):
-        self.name = "Mateus Alcântara"
-        self.age = 17
-        self.location = "São Paulo, Brasil"
-        self.education = "Análise e Desenvolvimento de Sistemas - UNISENAI"
-        self.passion = "Machine Learning & Artificial Intelligence"
-        self.current_focus = "Python + TensorFlow para ML e Deep Learning"
-        self.dream_job = "AI/ML Engineer"
-        self.motto = "Transformar código em acessibilidade desde 2023 ♿🤖"
-    
-    def get_skills(self):
-        return {
-            "ai_ml": ["Python", "TensorFlow", "JavaScript", "TensorFlow.js", 
-                      "Machine Learning", "Computer Vision"],
-            "data_science": ["Pandas", "NumPy", "Data Analysis"],
-            "web_dev": ["HTML5", "CSS3", "JavaScript", "React", "PHP"],
-            "database": ["MySQL"],
-            "tools": ["Git", "GitHub", "VS Code", "Trello", "Figma"]
-        }
-    
-    def get_current_goals(self):
-        return [
-            "🐍 Dominar Python para Machine Learning com TensorFlow",
-            "🤖 Construir modelos de IA profissionais e escaláveis",
-            "📚 Completar graduação em Análise e Desenvolvimento de Sistemas",
-            "🌱 Criar projetos de ML com impacto social",
-            "💡 Desenvolver soluções de IA que promovam acessibilidade"
-        ]
-    
-    def get_learning_journey(self):
-        return {
-            "started_with": "JavaScript + TensorFlow.js",
-            "now_learning": "Python + TensorFlow",
-            "reason": "Aprofundar conhecimento para trabalhar profissionalmente com ML",
-            "next_step": "Publicar projetos de Machine Learning em Python"
-        }
-    
-    def get_motivational_quote(self):
-        return "A tecnologia tem o poder de incluir e transformar vidas! ♿💜"
-
-# Iniciando a jornada em Python + ML
-mateus = MateusDeveloper()
-journey = mateus.get_learning_journey()
-
-print(f"🚀 {mateus.name} está explorando {journey['now_learning']}!")
-print(f"🎯 Objetivo: {journey['next_step']}")
-# Output: 
-# 🚀 Mateus Alcântara está explorando Python + TensorFlow!
-# 🎯 Objetivo: Publicar projetos de Machine Learning em Python
-```
-
 ---
 
 <!-- Seção de contato premium -->
