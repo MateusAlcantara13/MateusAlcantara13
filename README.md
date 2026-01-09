@@ -7,7 +7,7 @@
 
 <!-- Typing animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Oi!+👋+Eu+sou+o+Mateus;Estudante+de+Análise+e+Desenvolvimento+💜;17+anos+•+Apaixonado+por+Machine+Learning+🤖;Explorando+Python+%2B+TensorFlow+🐍;Sempre+aprendendo+algo+novo+🌱" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Oi!+Eu+sou+o+Mateus;17+anos+•+Apaixonado+por+Machine+Learning+🤖;Explorando+Python+%2B+TensorFlow+🐍;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
 </div>
 
 <!-- Badges dinâmicos -->
@@ -78,7 +78,6 @@
 <img src="https://skillicons.dev/icons?i=python,js,tensorflow&theme=dark" />
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 </td>
@@ -125,22 +124,6 @@
 </div>
 
 ---
-
-<!-- Estatísticas com gráficos modernos -->
-<div align="center">
-  
-  ## 📊 **GitHub Analytics**
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MateusAlcantara13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&custom_title=🔥%20Estatísticas%20do%20GitHub" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusAlcantara13&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=💻%20Linguagens%20Favoritas" />
-
-</div>
-
-<br>
-
-<div align="center">
-  
-  <img width="70%" src="https://streak-stats.demolab.com?user=MateusAlcantara13&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" />
   
 </div>
 
@@ -156,8 +139,7 @@
 
 <div align="center">
   
-  <img src="https://github-profile-trophy.vercel.app/?username=MateusAlcantara13&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
-  
+
 </div>
 
 ---
@@ -344,11 +326,10 @@
 <div align="left">
 
 ```python
-learning_path_2025 = {
-    "languages": ["Python", "JavaScript"],
+learning_path_2026 = {
+    "languages": ["Python"],
     "ai_ml": ["TensorFlow", "PyTorch", "Scikit-learn", "Computer Vision"],
     "data_science": ["Pandas", "NumPy", "Matplotlib"],
-    "web": ["React", "Node.js"],
     "focus": "Dominar Python para Machine Learning e Deep Learning",
     "goal": "Construir modelos de IA profissionais com TensorFlow"
 }
@@ -441,25 +422,15 @@ print(f"🐍 Estudando {learning_path_2025['languages'][0]} para entrar no mundo
 <!-- Footer com elementos visuais -->
 <div align="center">
   
-  ### 🌟 **Inspiração Diária**
-  
-<div align="center">
-  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-  
-  <br><br>
-  
-  **"A inteligência artificial é a nova eletricidade."**  
-  *— Andrew Ng*
+  ### 🌟 **Modo de pensamento**
   
   <br>
   
-  **"Python é a linguagem que conecta a lógica à inteligência artificial."**  
-  *— Guido van Rossum*
+  **"Não procuro atalhos, busco evolução constante."**  
   
   <br>
   
-  **Obrigado pela visita! Vamos transformar dados em inteligência juntos! 🐍🤖💜**
+  **Obrigado pela visita! Vamos transformar ideias em soluções juntos!**
   
 </div>
   
